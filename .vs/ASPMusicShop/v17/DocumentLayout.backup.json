@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\MusicShopASP-Diplomen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\carts\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\carts\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,20 +66,12 @@
       "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\carts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\carts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|d:\\musicshopasp-diplomen\\aspmusicshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14C48B98-FED4-4D5B-9263-F95A4CB4A069}|ASPMusicShop\\ASPMusicShop.csproj|solutionrelative:aspmusicshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,50 +81,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 16,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Data\\Cart.cs",
+              "RelativeDocumentMoniker": "ASPMusicShop\\Data\\Cart.cs",
+              "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Data\\Cart.cs",
+              "RelativeToolTip": "ASPMusicShop\\Data\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T10:02:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ASPMusicShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T09:51:24.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Carts\\Orders.cshtml",
+              "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Carts\\Orders.cshtml",
+              "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Carts\\Orders.cshtml",
+              "RelativeToolTip": "ASPMusicShop\\Views\\Carts\\Orders.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T09:51:08.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Carts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Carts\\Index.cshtml",
+              "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Carts\\Index.cshtml",
+              "RelativeToolTip": "ASPMusicShop\\Views\\Carts\\Index.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwHAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T09:39:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Products\\Details.cshtml",
-              "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Products\\Details.cshtml*",
-              "RelativeToolTip": "ASPMusicShop\\Views\\Products\\Details.cshtml*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ASPMusicShop\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwGQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-20T09:21:10.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Products\\Index.cshtml",
               "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "ASPMusicShop\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAgwF4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwG8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-20T09:18:21.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Categories\\Index.cshtml",
               "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Categories\\Index.cshtml",
               "RelativeToolTip": "ASPMusicShop\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwD0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-20T09:17:58.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ASPMusicShop\\Controllers\\ProductsController.cs",
@@ -116,12 +188,11 @@
               "RelativeToolTip": "ASPMusicShop\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T09:16:43.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T09:16:43.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "ASPMusicShop\\Controllers\\CategoriesController.cs",
@@ -129,16 +200,11 @@
               "RelativeToolTip": "ASPMusicShop\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAIwKAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T09:16:12.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2026-03-20T09:16:12.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -148,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ASPMusicShop\\Data\\ApplicationDbContext.cs",
@@ -160,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Program.cs",
               "RelativeDocumentMoniker": "ASPMusicShop\\Program.cs",
@@ -168,12 +234,11 @@
               "RelativeToolTip": "ASPMusicShop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T08:43:42.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T08:43:42.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Carts\\Create.cshtml",
               "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Carts\\Create.cshtml",
@@ -185,19 +250,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ASPMusicShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwFoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T10:53:44.754Z"
+              "WhenOpened": "2026-03-17T10:53:44.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "site.js",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "ASPMusicShop\\wwwroot\\js\\site.js",
@@ -209,19 +275,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "CartsController.cs",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Controllers\\CartsController.cs",
               "RelativeDocumentMoniker": "ASPMusicShop\\Controllers\\CartsController.cs",
-              "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Controllers\\CartsController.cs",
-              "RelativeToolTip": "ASPMusicShop\\Controllers\\CartsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Controllers\\CartsController.cs*",
+              "RelativeToolTip": "ASPMusicShop\\Controllers\\CartsController.cs*",
+              "ViewState": "AgIAALIAAAAAAAAAAAAswMYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T10:49:25.813Z"
+              "WhenOpened": "2026-03-17T10:49:25.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASPMusicShop\\Views\\Home\\Index.cshtml",
@@ -233,13 +300,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ASPMusicShop\\wwwroot\\css\\site.css",
               "ToolTip": "D:\\MusicShopASP-Diplomen\\ASPMusicShop\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ASPMusicShop\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAKYDAAAAAAAAAAAAALcDAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAMkEAAAAAAAAAAAiwOMEAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-03-17T10:42:53.963Z",
               "EditorCaption": ""

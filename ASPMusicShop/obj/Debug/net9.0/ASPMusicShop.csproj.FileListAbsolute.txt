@@ -1184,4 +1184,4 @@ D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\refint\ASPMusicShop.dll
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\ASPMusicShop.pdb
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\ASPMusicShop.genruntimeconfig.cache
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\ref\ASPMusicShop.dll
-D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\dcxpu6u6jb-2ftvn2v386.gz
+D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\dcxpu6u6jb-vr881m6dol.gz

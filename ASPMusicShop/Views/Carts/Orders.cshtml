@@ -1,0 +1,83 @@
+﻿@model IEnumerable<ASPMusicShop.Data.Cart>
+
+@{
+    ViewData["Title"] = "Моите поръчки";
+    var groupedOrders = Model
+        .GroupBy(x => x.DateOfOrder)
+        .OrderByDescending(g => g.Key)
+        .ToList();
+}
+
+<div class="admin-page">
+    <div class="admin-card">
+        <div class="d-flex justify-content-between align-items-center mb-4 flex-wrap gap-2">
+            <div>
+                <h1 class="section-title mb-1">Моите поръчки</h1>
+                <p class="section-subtitle">История на завършените поръчки.</p>
+            </div>
+
+            <a asp-action="Index" class="btn-secondary-custom">
+                <i class="bi bi-cart3"></i> Към количката
+            </a>
+        </div>
+
+        @if (!groupedOrders.Any())
+        {
+            <div class="empty-cart-box text-center">
+                <i class="bi bi-bag-x empty-cart-icon"></i>
+                <h3 class="mt-3 mb-2">Нямаш поръчки</h3>
+                <p class="section-subtitle mb-4">Все още няма завършени поръчки.</p>
+            </div>
+        }
+        else
+        {
+            @foreach (var order in groupedOrders)
+            {
+                var orderTotal = order.Sum(x => x.Quantity * x.Products.Price);
+
+                <div class="order-history-card mb-4">
+                    <div class="order-history-header">
+                        <div>
+                            <h4 class="mb-1">Поръчка</h4>
+                            <p class="mb-0 text-muted">@order.Key.ToString("dd.MM.yyyy HH:mm")</p>
+                        </div>
+
+                        <div class="order-history-total">
+                            @orderTotal.ToString("0.00") €
+                        </div>
+                    </div>
+
+                    <div class="order-history-items">
+                        @foreach (var item in order)
+                        {
+                            <div class="order-history-item">
+                                <div class="order-history-image">
+                                    <img src="@item.Products.ImageURL" alt="@item.Products.Name" />
+                                </div>
+
+                                <div class="order-history-body">
+                                    <h5 class="mb-1">@item.Products.Name</h5>
+                                    <p class="mb-1 text-muted">@item.Products.Model</p>
+                                    <p class="mb-0 text-muted">Количество: @item.Quantity</p>
+                                </div>
+
+                                <div class="order-history-price">
+                                    @((item.Products.Price * item.Quantity).ToString("0.00")) €
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @if (TempData["OrderCompletedMessage"] != null)
+    {
+        <script>
+            alert('@TempData["OrderCompletedMessage"]');
+        </script>
+    }
+}
