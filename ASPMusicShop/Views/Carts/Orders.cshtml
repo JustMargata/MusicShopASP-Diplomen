@@ -72,12 +72,3 @@
         }
     </div>
 </div>
-
-@section Scripts {
-    @if (TempData["OrderCompletedMessage"] != null)
-    {
-        <script>
-            alert('@TempData["OrderCompletedMessage"]');
-        </script>
-    }
-}

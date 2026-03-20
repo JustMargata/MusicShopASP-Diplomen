@@ -61,6 +61,10 @@ namespace ASPMusicShop.Controllers
 
             _context.Add(category);
             await _context.SaveChangesAsync();
+
+            TempData["ToastMessage"] = "Категорията е добавена успешно.";
+            TempData["ToastType"] = "success";
+
             return RedirectToAction(nameof(Index));
         }
 
@@ -113,6 +117,9 @@ namespace ASPMusicShop.Controllers
                 throw;
             }
 
+            TempData["ToastMessage"] = "Категорията е редактирана успешно.";
+            TempData["ToastType"] = "success";
+
             return RedirectToAction(nameof(Index));
         }
 
@@ -149,6 +156,9 @@ namespace ASPMusicShop.Controllers
                 _context.Categories.Remove(category);
                 await _context.SaveChangesAsync();
             }
+
+            TempData["ToastMessage"] = "Категорията е изтрита успешно.";
+            TempData["ToastType"] = "success";
 
             return RedirectToAction(nameof(Index));
         }

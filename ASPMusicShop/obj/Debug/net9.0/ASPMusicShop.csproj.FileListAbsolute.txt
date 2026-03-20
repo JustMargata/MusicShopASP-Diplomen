@@ -1111,7 +1111,6 @@ D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\nezrqnk58p-muy
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\bny3g1vau2-61n19gt1b8.gz
-D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\tdvozy0r5g-d1m8xr7h8t.gz
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\v1jyu4znns-t1cqhe9u97.gz
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\5k8i97xrs5-c2jlpeoesf.gz
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\1gxu1phoyb-sejl45xvog.gz
@@ -1184,4 +1183,5 @@ D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\refint\ASPMusicShop.dll
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\ASPMusicShop.pdb
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\ASPMusicShop.genruntimeconfig.cache
 D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\ref\ASPMusicShop.dll
-D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\dcxpu6u6jb-vr881m6dol.gz
+D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\tdvozy0r5g-kjfxzy5g32.gz
+D:\MusicShopASP-Diplomen\ASPMusicShop\obj\Debug\net9.0\compressed\dcxpu6u6jb-yvqdnqpxug.gz
