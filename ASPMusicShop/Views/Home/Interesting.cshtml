@@ -1,126 +1,107 @@
-﻿@{
+@{
     ViewData["Title"] = "Интересно и полезно";
 }
 
-<div class="admin-page">
-
-    <div class="row g-0 mb-4 align-items-end">
-        <div class="col">
-            <div class="hero-badge mb-2">🎵 Музикален свят</div>
-            <h1 class="section-title mb-1">Интересно и полезно</h1>
-            <p class="section-subtitle">Съвети, факти и вдъхновение за музиканти</p>
+<div class="interesting-page">
+    <section class="interesting-hero">
+        <div class="interesting-kicker">
+            <i class="bi bi-music-note-beamed"></i>
+            Музикален свят
         </div>
-    </div>
 
-    <div class="row g-4 mb-4">
+        <div>
+            <h1>Интересно и полезно</h1>
+            <p>
+                Кратки насоки за избор, поддръжка и по-добра грижа за музикалните инструменти.
+            </p>
+        </div>
+    </section>
 
-        <div class="col-lg-4 col-md-6">
-            <div class="feature-card h-100">
-                <div class="feature-icon">🎸</div>
-                <h4>Как да изберем китара?</h4>
+    <section class="interesting-grid" aria-label="Полезни съвети за музиканти">
+        <article class="interesting-card">
+            <div class="interesting-icon">
+                <i class="bi bi-music-note-list"></i>
+            </div>
+            <div>
+                <h2>Избор на първи инструмент</h2>
                 <p>
-                    При избора на първа китара е важно да прецените дали искате акустична или електрическа.
-                    Акустичната е по-удобна за начинаещи — не изисква усилвател и е по-лесна за транспорт.
-                    Обърнете внимание на размера на тялото и височината на струните над прага.
+                    Започнете с инструмент, който е удобен за държане, настройване и транспорт.
+                    При китара обърнете внимание на размера, височината на струните и типа тяло.
                 </p>
             </div>
-        </div>
+        </article>
 
-        <div class="col-lg-4 col-md-6">
-            <div class="feature-card h-100">
-                <div class="feature-icon">🎹</div>
-                <h4>Клавир или синтезатор?</h4>
+        <article class="interesting-card">
+            <div class="interesting-icon">
+                <i class="bi bi-keyboard"></i>
+            </div>
+            <div>
+                <h2>Клавир или синтезатор</h2>
                 <p>
-                    Клавирите имат претеглени клавиши, което ги прави по-близки до акустично пиано.
-                    Синтезаторите предлагат стотици звуци и ефекти, идеални за продуценти и изпълнители на поп и електронна музика.
-                    За класическо обучение — изберете дигитален клавир.
+                    Дигиталният клавир е по-подходящ за класическо обучение, а синтезаторът е добър избор
+                    за сценични звуци, ефекти и електронна музика.
                 </p>
             </div>
-        </div>
+        </article>
 
-        <div class="col-lg-4 col-md-6">
-            <div class="feature-card h-100">
-                <div class="feature-icon">🥁</div>
-                <h4>Грижа за ударните</h4>
+        <article class="interesting-card">
+            <div class="interesting-icon">
+                <i class="bi bi-sliders"></i>
+            </div>
+            <div>
+                <h2>Поддръжка и съхранение</h2>
                 <p>
-                    Редовно проверявайте опъването на мембраните — трябва да е равномерно по целия ръб.
-                    Почиствайте металните части с мека кърпа след всяка репетиция.
-                    Съхранявайте барабаните на сухо място, далеч от директна слънчева светлина.
+                    Почиствайте инструмента след свирене и го пазете от влага, пряко слънце и резки температурни промени.
+                    Това удължава живота на струните, корпуса и механиката.
                 </p>
             </div>
-        </div>
+        </article>
 
-        <div class="col-lg-4 col-md-6">
-            <div class="feature-card h-100">
-                <div class="feature-icon">🎻</div>
-                <h4>Поддръжка на цигулка</h4>
+        <article class="interesting-card">
+            <div class="interesting-icon">
+                <i class="bi bi-mic"></i>
+            </div>
+            <div>
+                <h2>Микрофони и озвучаване</h2>
                 <p>
-                    Смолосвайте лъка преди всяка употреба с умерено количество смола.
-                    Почиствайте струните и тялото след свирене, за да предотвратите натрупване на пот и прах.
-                    Съхранявайте инструмента в твърд куфар с постоянна влажност между 45–55%.
+                    Динамичните микрофони са практични за сцена, а кондензаторните улавят повече детайл в студио.
+                    За чист звук използвайте стабилна стойка и правилна дистанция.
                 </p>
             </div>
-        </div>
+        </article>
+    </section>
 
-        <div class="col-lg-4 col-md-6">
-            <div class="feature-card h-100">
-                <div class="feature-icon">🎺</div>
-                <h4>Духови инструменти</h4>
-                <p>
-                    Духовите инструменти изискват редовно почистване на вентилите и тромпетните шийки.
-                    Използвайте специално масло за вентили след всяка употреба.
-                    Изпразвайте конденза от водяните клапани след всяка сесия на свирене.
-                </p>
+    <section class="interesting-panel" aria-label="Интересни факти за музиката">
+        <div class="interesting-panel-header">
+            <div class="interesting-icon">
+                <i class="bi bi-lightbulb"></i>
+            </div>
+            <div>
+                <h2>Интересни факти</h2>
+                <p>Няколко бързи детайла, които показват колко силно музиката влияе на хората.</p>
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6">
-            <div class="feature-card h-100">
-                <div class="feature-icon">🎙️</div>
-                <h4>Микрофони и озвучаване</h4>
-                <p>
-                    Динамичните микрофони са издръжливи и подходящи за живи изяви.
-                    Кондензаторните микрофони улавят повече детайли и са предпочитани за студийни записи.
-                    Винаги използвайте антивибрационна стойка за по-чист звук.
-                </p>
+        <div class="interesting-facts">
+            <div class="interesting-fact">
+                <span>01</span>
+                <p>Музиката може да намали тревожността и да помогне за по-добра концентрация.</p>
+            </div>
+
+            <div class="interesting-fact">
+                <span>02</span>
+                <p>Децата, които учат инструмент, често развиват по-добро пространствено мислене.</p>
+            </div>
+
+            <div class="interesting-fact">
+                <span>03</span>
+                <p>Предшественици на китарата са открити още в древни цивилизации.</p>
+            </div>
+
+            <div class="interesting-fact">
+                <span>04</span>
+                <p>Пианото има хиляди механични части и е един от най-сложните акустични инструменти.</p>
             </div>
         </div>
-
-    </div>
-
-    <div class="card-glass p-4 mb-4">
-        <h3 class="fw-800 mb-3" style="color: var(--txtd); font-weight: 800;">🎵 Интересни факти за музиката</h3>
-        <div class="row g-3">
-
-            <div class="col-md-6">
-                <div class="details-item">
-                    <span class="details-label">Факт #1</span>
-                    <span class="details-value">Музиката може да намали тревожността с до 65% според проучвания на Британската академия на звуковите терапевти.</span>
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <div class="details-item">
-                    <span class="details-label">Факт #2</span>
-                    <span class="details-value">Децата, които учат музикален инструмент, развиват по-добри математически умения и пространствено мислене.</span>
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <div class="details-item">
-                    <span class="details-label">Факт #3</span>
-                    <span class="details-value">Стародавната китара датира от преди над 3500 години — нейни предшественници са открити в древен Египет.</span>
-                </div>
-            </div>
-
-            <div class="col-md-6">
-                <div class="details-item">
-                    <span class="details-label">Факт #4</span>
-                    <span class="details-value">Пианото има над 12 000 части, от които 10 000 са подвижни — то е един от най-сложните инструменти в света.</span>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
+    </section>
 </div>
