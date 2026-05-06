@@ -1,0 +1,149 @@
+@{
+    ViewData["Title"] = "Контакти";
+}
+
+<div class="contacts-page">
+    <section class="contacts-hero">
+        <div class="contacts-kicker">
+            <i class="bi bi-chat-dots"></i>
+            Контакти
+        </div>
+
+        <div>
+            <h1>Свържете се с нас</h1>
+            <p>
+                Посетете ни на място или ни пишете за въпроси относно продукти, поръчки,
+                доставка и поддръжка на музикални инструменти.
+            </p>
+        </div>
+    </section>
+
+    <section class="contacts-overview" aria-label="Контактна информация">
+        <article class="contacts-card">
+            <div class="contacts-icon">
+                <i class="bi bi-geo-alt"></i>
+            </div>
+            <div>
+                <span>Адрес</span>
+                <strong>ПГ "Ген. Владимир Заимов", гр. Сопот</strong>
+            </div>
+        </article>
+
+        <article class="contacts-card">
+            <div class="contacts-icon">
+                <i class="bi bi-envelope"></i>
+            </div>
+            <div>
+                <span>Имейл</span>
+                <strong>support@aspmusicshop.bg</strong>
+            </div>
+        </article>
+
+        <article class="contacts-card">
+            <div class="contacts-icon">
+                <i class="bi bi-clock"></i>
+            </div>
+            <div>
+                <span>Работно време</span>
+                <strong>Понеделник - Петък, 09:00 - 17:00</strong>
+            </div>
+        </article>
+    </section>
+
+    <section class="contacts-content">
+        <div class="contacts-panel">
+            <div class="contacts-panel-header">
+                <div class="contacts-icon">
+                    <i class="bi bi-info-circle"></i>
+                </div>
+                <div>
+                    <h2>Как можем да помогнем?</h2>
+                    <p>
+                        Изпратете ни запитване, ако имате нужда от съвет при избор на инструмент,
+                        информация за наличност или съдействие с поръчка.
+                    </p>
+                </div>
+            </div>
+
+            <ul class="contacts-list">
+                <li>
+                    <i class="bi bi-check2-circle"></i>
+                    Консултация при избор на музикален инструмент
+                </li>
+                <li>
+                    <i class="bi bi-check2-circle"></i>
+                    Информация за доставка и получаване
+                </li>
+                <li>
+                    <i class="bi bi-check2-circle"></i>
+                    Съдействие при гаранция и поддръжка
+                </li>
+            </ul>
+
+            <form class="contacts-form" id="contacts-email-form">
+                <div class="contacts-form-header">
+                    <h2>Изпратете имейл</h2>
+                    <p>Попълнете кратко запитване и ще се отвори подготвен имейл към нас.</p>
+                </div>
+
+                <div class="contacts-form-field">
+                    <label for="contact-customer-name">Име на клиента</label>
+                    <input type="text"
+                           id="contact-customer-name"
+                           name="customerName"
+                           placeholder="Вашето име"
+                           required />
+                </div>
+
+                <div class="contacts-form-field">
+                    <label for="contact-subject">Тема на имейла</label>
+                    <input type="text"
+                           id="contact-subject"
+                           name="subject"
+                           placeholder="Например: Въпрос за доставка"
+                           required />
+                </div>
+
+                <div class="contacts-form-field">
+                    <label for="contact-description">Описание</label>
+                    <textarea id="contact-description"
+                              name="description"
+                              rows="5"
+                              placeholder="Опишете с какво можем да помогнем"
+                              required></textarea>
+                </div>
+
+                <button type="submit" class="contacts-submit">
+                    <i class="bi bi-send"></i>
+                    Изпрати имейл
+                </button>
+
+                <p class="contacts-form-status" id="contacts-form-status" aria-live="polite"></p>
+            </form>
+        </div>
+
+        <div class="contacts-map-panel">
+            <div class="contacts-map-header">
+                <div>
+                    <h2>Карта</h2>
+                    <p>ПГ "Ген. Владимир Заимов", гр. Сопот</p>
+                </div>
+                <a class="contacts-map-link"
+                   href="https://www.google.com/maps/search/?api=1&query=%D0%9F%D0%93%20%D0%93%D0%B5%D0%BD.%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%97%D0%B0%D0%B8%D0%BC%D0%BE%D0%B2%2C%20%D0%A1%D0%BE%D0%BF%D0%BE%D1%82"
+                   target="_blank"
+                   rel="noopener">
+                    <i class="bi bi-box-arrow-up-right"></i>
+                    Отвори
+                </a>
+            </div>
+
+            <iframe class="contacts-map"
+                    title="Карта до ПГ Ген. Владимир Заимов, гр. Сопот"
+                    src="https://www.google.com/maps?q=%D0%9F%D0%93%20%D0%93%D0%B5%D0%BD.%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%97%D0%B0%D0%B8%D0%BC%D0%BE%D0%B2%2C%20%D0%A1%D0%BE%D0%BF%D0%BE%D1%82&output=embed"
+                    loading="lazy"
+                    allowfullscreen
+                    referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+        </div>
+    </section>
+</div>
